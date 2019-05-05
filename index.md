@@ -9,7 +9,7 @@ Thank you github.
 
 [This page is at https://eichblatt.github.io](https://eichblatt.github.io)
 
-[see this picture](https://github.com/eichblatt/eichblatt.github.io/blob/master/Actors%20and%20Art%20Comparison.png)
+[Here is a picture](https://github.com/eichblatt/eichblatt.github.io/blob/master/Actors%20and%20Art%20Comparison.png) that Sara put toghether after we visited the Metropolitan Art Museum. It shows the resemblance of some art subjects and actors in various television series.
 
 ## My Git Repos
 [analyze_roots](https://eichblatt.github.io/analyze_roots) A project analyzing Esperanto root words
