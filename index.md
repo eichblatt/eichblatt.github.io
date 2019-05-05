@@ -9,9 +9,9 @@ Thank you github.
 
 [This page is at https://eichblatt.github.io](https://eichblatt.github.io)
 
-Check out [this picture](https://github.com/eichblatt/eichblatt.github.io/blob/master/Actors%20and%20Art%20Comparison.png) that Sara put toghether after we visited the Metropolitan Art Museum. It shows the resemblance of some art subjects and actors in various television series:
+Check out [this picture](Actors%20and%20Art%20Comparison.png) that Sara put toghether after we visited the Metropolitan Art Museum. It shows the resemblance of some art subjects and actors in various television series:
 
-![alt text](Actors%20and%20Art%20Comparison.png "picture")
+![alt text](Actors%20and%20Art%20Comparison.png "Actors and Art Subjects")
 
 
 ## My Git Repos
