@@ -13,6 +13,8 @@ Check out [this picture](Actors%20and%20Art%20Comparison.png) that Sara put togh
 
 
 ## My Git Repos
+[This repo](https://github.com/eichblatt/eichblatt.github.io)
+
 [analyze_roots](https://eichblatt.github.io/analyze_roots) A project analyzing Esperanto root words
 
 [Stories](https://eichblatt.github.io/stories) A place for stories.
