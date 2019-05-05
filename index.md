@@ -11,13 +11,7 @@ Thank you github.
 
 Check out [this picture](https://github.com/eichblatt/eichblatt.github.io/blob/master/Actors%20and%20Art%20Comparison.png) that Sara put toghether after we visited the Metropolitan Art Museum. It shows the resemblance of some art subjects and actors in various television series:
 
-![alt text](https://raw.githubusercontent.com/eichblatt/eichblatt.github.io/blob/master/Actors%20and%20Art%20Comparison.png "picture")
-
-<figure>
-  <img src="https://github.com/eichblatt/eichblatt.github.io/blob/master/Actors%20and%20Art%20Comparison.png" alt="picture">
-  <figcaption> A picture that Sara put together after visiting the Met, showing the resemblance of art subjects and actors from various television series.</figcaption>
-</figure>
-
+![alt text](Actors%20and%20Art%20Comparison.png "picture")
 
 
 ## My Git Repos
