@@ -13,6 +13,12 @@ Check out [this picture](https://github.com/eichblatt/eichblatt.github.io/blob/m
 
 ![alt text](https://github.com/eichblatt/eichblatt.github.io/blob/master/Actors%20and%20Art%20Comparison.png "picture")
 
+<figure>
+  <img src="https://github.com/eichblatt/eichblatt.github.io/blob/master/Actors%20and%20Art%20Comparison.png" alt="picture">
+  <figcaption A picture that Sara put together after visiting the Met, showing the resemblance of art subjects and actors from various television series.</figcaption>
+</figure>
+
+
 
 ## My Git Repos
 [analyze_roots](https://eichblatt.github.io/analyze_roots) A project analyzing Esperanto root words
