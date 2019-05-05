@@ -8,6 +8,7 @@ At some point, I might have my own web address, which I can point to this site.
 Thank you github.
 
 [This page is at https://eichblatt.github.io](https://eichblatt.github.io)
+
 [see this picture](https://github.com/eichblatt/eichblatt.github.io/blob/master/Actors%20and%20Art%20Comparison.png)
 
 ## My Git Repos
