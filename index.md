@@ -1,5 +1,3 @@
-# [Homepage](https://eichblatt.github.io)
-
 ## Description 
 
 I am creating a web page. I will see how simple it is, and if I can create links to a network of pages. 
