@@ -19,6 +19,8 @@ Check out [this picture](Actors%20and%20Art%20Comparison.png) that Sara put togh
 
 [Stories](https://eichblatt.github.io/stories) A place for stories.
 
+[coronavirus)](https://eichblatt.github.io/coronavirus) A repo of coronavirus scripts and reports
+
 ## References
 
 Here is a useful [markdown reference page](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
