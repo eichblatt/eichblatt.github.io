@@ -26,4 +26,4 @@ Check out [this picture](Actors%20and%20Art%20Comparison.png) that Sara put togh
 Here is a useful [markdown reference page](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links)
 
 ## Acknowledgements
-Hi Sara
+Hi Sara 
