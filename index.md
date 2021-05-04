@@ -21,7 +21,7 @@ Check out [this picture](Actors%20and%20Art%20Comparison.png) that Sara put togh
 
 [coronavirus](https://eichblatt.github.io/coronavirus) A repo of coronavirus scripts and reports
 
-[timemachine](https://eichblatt.github.io/timemachine) A repo for the Grateful Dead Time Machine project.
+[timemachine](https://eichblatt.github.io/deadstream) A repo for the Grateful Dead Time Machine project.
 
 ## References
 
